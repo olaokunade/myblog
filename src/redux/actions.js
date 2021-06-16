@@ -1,0 +1,5 @@
+export const addUser = "ADDUSER"
+export const removeUser = "REMOVEUSER"
+export const addOne = "ADDONE"
+export const removeOne = "REMOVEONE"
+export const setUsers = "SETUSERS"
